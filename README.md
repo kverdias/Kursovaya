@@ -1,5 +1,7 @@
 # Kursovaya
 
+https://docs.google.com/document/d/1DDMPgQMApOHVFnyp1TzA3AU0oBOVlTp-frNQjH3SXSM/edit
+
 Курсовая работа по 09.01
 
 1 титульный
